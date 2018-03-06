@@ -1,6 +1,8 @@
 # papercolor-terminal-app
 
-[Paper Color theme](https://github.com/NLKNguyen/papercolor-theme) for Terminal app
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[Paper Color theme](https://github.com/NLKNguyen/papercolor-theme) for Terminal app.
 
 ## Screenshots
 
